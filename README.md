@@ -25,6 +25,6 @@
     
 In this article, I will explain how you can use pretrained models to speed up the labelling process for your next object detection projectt</p>
 </article>
-
-
-![Alt Text](src/make sense.gif)
+<div align="center">
+<img src="src/make sense.gif" width="80%">
+</div>
