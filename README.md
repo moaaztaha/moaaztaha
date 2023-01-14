@@ -27,4 +27,4 @@ In this article, I will explain how you can use pretrained models to speed up th
 </article>
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](src/make sense.gif)
