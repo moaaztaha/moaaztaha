@@ -18,9 +18,19 @@
 
 ## <div align="center">Latest Projects</div>
 <article>
+  <h3><a href="https://github.com/moaaztaha/Sacks-Tracking-and-Counting-using-Yolov5-DeepSort-and-Supervision">Sacks Tracking and Counting using Yolov5, DeepSort and Supervision</a></h3>
+
+<div align="center">
+<img src="https://github.com/moaaztaha/Sacks-Tracking-and-Counting-using-Yolov5-DeepSort-and-Supervision/blob/main/demo.gif?raw=true" width="80%">
+</div>
+</article>
+
+---
+
+<article>
   <h3><a href="https://github.com/moaaztaha/Yolo-Interface-using-Streamlit">Yolov5 Real-time Inference using Streamlit</a></h3>
   
-  ---
+  
   ### [Live Demo](https://moaaztaha-yolo-interface-using-streamlit-app-ioset2.streamlit.app/)
   
   ## Features
@@ -33,7 +43,9 @@
 <div align="center">
 <img src="https://github.com/moaaztaha/Yolo-Interface-using-Streamlit/raw/main/output.gif" width="80%">
 </div>
+</article>
 
+---
 
 ## <div align="center">blog posts</div>
 
@@ -44,7 +56,7 @@
   
   <p>Labelling your custom datasets for object detection can take a huge time. So why don’t we use pretrained models to auto-label our objects for us?
     
-In this article, I will explain how you can use pretrained models to speed up the labelling process for your next object detection projectt</p>
+In this article, I will explain how you can use pretrained models to speed up the labelling process for your next object detection project</p>
 </article>
 <div align="center">
 <img src="src/make sense.gif" width="80%">
