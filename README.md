@@ -18,8 +18,19 @@
 
 ## <div align="center">Latest Projects</div>
 <article>
-  <h3><a href="https://github.com/moaaztaha/Sacks-Tracking-and-Counting-using-Yolov5-DeepSort-and-Supervision">Sacks Tracking and Counting using Yolov5, DeepSort and Supervision</a></h3>
+  <h3><a href="https://github.com/moaaztaha/GYM-assistant-using-Yolov7-pose-estimation">AI GYM Helper</a></h3>
+  <p>Counting curls and making sure the elbows are tucked in using Yolov7 pose estimation and OpenCV.</p>
 
+<div align="center">
+<img src="https://github.com/moaaztaha/GYM-assistant-using-Yolov7-pose-estimation/blob/main/demo.gif?raw=true" width="80%">
+</div>
+</article>
+
+---
+
+<article>
+  <h3><a href="https://github.com/moaaztaha/Sacks-Tracking-and-Counting-using-Yolov5-DeepSort-and-Supervision">Sacks Tracking and Counting using Yolov5, DeepSort and Supervision</a></h3>
+  <p>Using Yolov5, DeepSort and Supervision to track the number of sacks loaded onto and off of a truck.</p>
 <div align="center">
 <img src="https://github.com/moaaztaha/Sacks-Tracking-and-Counting-using-Yolov5-DeepSort-and-Supervision/blob/main/demo.gif?raw=true" width="80%">
 </div>
@@ -29,7 +40,7 @@
 
 <article>
   <h3><a href="https://github.com/moaaztaha/Yolo-Interface-using-Streamlit">Yolov5 Real-time Inference using Streamlit</a></h3>
-  
+  <p>A web interface for real-time yolo inference using streamlit. It supports CPU and GPU inference, supports both images and videos and uploading your own custom models.</p>
   
   ### [Live Demo](https://moaaztaha-yolo-interface-using-streamlit-app-ioset2.streamlit.app/)
   
